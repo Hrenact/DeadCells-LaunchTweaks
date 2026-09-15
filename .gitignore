@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+*.pdb
+
+# Local release archives
+*.zip
+
+# Dead Cells files and backups must never be committed
+res.pak
+save/
+logs/
+deadcells.original.exe
+deadcells_gl.original.exe
+*.windblown-news-backup
+
+# Editors and operating systems
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
