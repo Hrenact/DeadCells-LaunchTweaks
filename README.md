@@ -32,7 +32,7 @@
 
 | 原版 | 启用后 |
 | --- | --- |
-| <img src="docs/images/oiginal.png" alt="Description" width="100%"> <br> <img src="docs/images/oiginal1.png" alt="Description" width="100%"> | <img src="docs/images/all.png" alt="Description" width="100%"> <br> <img src="docs/images/all1.png" alt="Description" width="100%"> |
+| <img src="docs/images/oiginal.webp" alt="Description" width="100%"> <br> <img src="docs/images/oiginal1.webp" alt="Description" width="100%"> | <img src="docs/images/all.webp" alt="Description" width="100%"> <br> <img src="docs/images/all1.webp" alt="Description" width="100%"> |
 
 ### 缩短启动画面
 
@@ -57,13 +57,13 @@ https://github.com/user-attachments/assets/fc9c8671-2aff-4b0c-9ccc-8115b286870f
 
 | 原版 | 启用后 |
 | --- | --- |
-| <img src="docs/images/oiginal.png" alt="Description" width="100%"> | <img src="docs/images/no-news-window.png" alt="Description" width="100%"> |
+| <img src="docs/images/oiginal.webp" alt="Description" width="100%"> | <img src="docs/images/no-news-window.webp" alt="Description" width="100%"> |
 
 ### 隐藏控制器建议：`-NoControllerWarning`
 
 | 原版 | 启用后 |
 | --- | --- |
-| <img src="docs/images/oiginal.png" alt="Description" width="100%"> | <img src="docs/images/no-controller-warning.png" alt="Description" width="100%"> |
+| <img src="docs/images/oiginal.webp" alt="Description" width="100%"> | <img src="docs/images/no-controller-warning.webp" alt="Description" width="100%"> |
 
 移除未连接手柄时位于菜单底部、闪烁显示的红色控制器建议文字。
 
@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/fc9c8671-2aff-4b0c-9ccc-8115b286870f
 
 | 原版 | 启用后 |
 | --- | --- |
-| <img src="docs/images/DailyLeaderboard.png" alt="Description" width="100%"> | <img src="docs/images/no-daily-leaderboard.png" alt="Description" width="100%"> |
+| <img src="docs/images/DailyLeaderboard.webp" alt="Description" width="100%"> | <img src="docs/images/no-daily-leaderboard.webp" alt="Description" width="100%"> |
 
 ### 隐藏标题横幅
 
@@ -89,7 +89,7 @@ https://github.com/user-attachments/assets/fc9c8671-2aff-4b0c-9ccc-8115b286870f
 
 | 原版 | 启用后 |
 | --- | --- |
-| <img src="docs/images/oiginal.png" alt="Description" width="100%"> | <img src="docs/images/no-title-banner.png" alt="Description" width="100%"> |
+| <img src="docs/images/oiginal.webp" alt="Description" width="100%"> | <img src="docs/images/no-title-banner.webp" alt="Description" width="100%"> |
 
 ## 安装
 
